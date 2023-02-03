@@ -1,0 +1,17 @@
+{
+  "name": "e-comm-api",
+  "version": "1.0.0",
+  "description": "sample e-commerce app back-end api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "express",
+    "typescript",
+    "REST-api"
+  ],
+  "author": "Abhishek Kumar",
+  "license": "ISC"
+}
